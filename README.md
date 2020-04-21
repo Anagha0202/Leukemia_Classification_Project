@@ -4,7 +4,7 @@ This repository contains Project which was undertaken for Final Year of Engineer
 
 -> Project title: Detection of Leukemia using Deep Learning </br>
 
--> Project objectives:
+-> Project objectives: </br>
 (1) Collect image dataset of blood smear and predict whether the patient is suffering from cancer or not.</br>
 
 -> Algorithms used:</br>
